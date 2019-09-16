@@ -15,6 +15,7 @@ Generación de números mediante diferentes métodos
 ### Ejecución
 ## Windows: 
 ``java -jar Simulacion-Pseudoaleatiorios.jar``
+
 ## Mac OS:
 ``Doble Click :)``
 
