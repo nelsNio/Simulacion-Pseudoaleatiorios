@@ -12,5 +12,8 @@ Generación de números mediante diferentes métodos
 ### Ejecución
 ``java -jar "nombre del archivo".jar``
 
-####Asignatura.
+### Asignatura.
 `Simulación de Computadores``
+
+
+
