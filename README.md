@@ -8,5 +8,9 @@ Generación de números mediante diferentes métodos
 ## Autores
 ``Niño V. Nelson Andres.``
 ```Cabra C. Cesar Duvan.```
+
+### Ejecución
+``java -jar "nombre del archivo".jar``
+
 ####Asignatura.
-``Simulación de Computadores``
+`Simulación de Computadores``
