@@ -1,10 +1,10 @@
-package com.nelsNio.logic;
+package com.nelsnio.logic;
 
 import java.util.List;
 
 /**
  *  Prueba de Medias
- * @author nelsNio
+ * @author nelsnio
  */
 public class MeanTest {
     

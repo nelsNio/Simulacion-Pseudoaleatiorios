@@ -1,7 +1,7 @@
-package com.nelsNio.test;
+package com.nelsnio.test;
 
-import com.nelsNio.logic.CongruenceLinear;
-import com.nelsNio.logic.OperationCongruenceLinear;
+import com.nelsnio.logic.CongruenceLinear;
+import com.nelsnio.logic.OperationCongruenceLinear;
 import javafx.collections.FXCollections;
 
 /**

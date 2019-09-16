@@ -1,4 +1,4 @@
-package com.nelsNio.logic;
+package com.nelsnio.logic;
 
 import javafx.application.Platform;
 import javafx.collections.ObservableList;
@@ -9,7 +9,7 @@ import java.util.List;
 
 /**
  * Método de generación de cuadrados medios
- * @author nelsNio
+ * @author nelsnio
  */
 public class MiddleSquares {
 

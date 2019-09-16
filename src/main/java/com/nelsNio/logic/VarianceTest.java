@@ -1,4 +1,4 @@
-package com.nelsNio.logic;
+package com.nelsnio.logic;
 
 import org.apache.commons.math3.distribution.ChiSquaredDistribution;
 import org.apache.commons.math3.stat.descriptive.DescriptiveStatistics;
@@ -7,7 +7,7 @@ import java.util.List;
 
 /**
  * Prueba de varianzas
- * @author nelsNio
+ * @author nelsnio
  */
 public class VarianceTest {
 

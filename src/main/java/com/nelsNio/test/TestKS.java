@@ -1,6 +1,6 @@
-package com.nelsNio.test;
+package com.nelsnio.test;
 
-import com.nelsNio.logic.KolmogorovSmirnov;
+import com.nelsnio.logic.KolmogorovSmirnov;
 
 import java.util.ArrayList;
 

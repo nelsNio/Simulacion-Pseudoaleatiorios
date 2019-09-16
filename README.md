@@ -13,7 +13,6 @@ Generación de números mediante diferentes métodos
 ``java -jar "nombre del archivo".jar``
 
 ### Asignatura.
-`Simulación de Computadores``
-
+``Simulación de Computadores``
 
 

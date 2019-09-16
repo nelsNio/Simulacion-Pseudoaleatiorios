@@ -1,6 +1,6 @@
-package com.nelsNio.test;
+package com.nelsnio.test;
 
-import com.nelsNio.logic.OperationUniformDistribution;
+import com.nelsnio.logic.OperationUniformDistribution;
 
 import java.util.ArrayList;
 

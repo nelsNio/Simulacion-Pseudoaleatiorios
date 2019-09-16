@@ -1,4 +1,4 @@
-package com.nelsNio.test;
+package com.nelsnio.test;
 
 import org.apache.commons.math3.distribution.KolmogorovSmirnovDistribution;
 import org.apache.commons.math3.stat.inference.KolmogorovSmirnovTest;
@@ -6,7 +6,7 @@ import org.apache.commons.math3.stat.inference.KolmogorovSmirnovTest;
 
 /**
  *
- * @author nelsNio
+ * @author nelsnio
  */
 public class TestDistributions {
     

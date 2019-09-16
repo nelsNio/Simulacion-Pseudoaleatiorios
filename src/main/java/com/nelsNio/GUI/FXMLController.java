@@ -1,7 +1,7 @@
-package com.nelsNio.GUI;
+package com.nelsnio.GUI;
 
 import com.jfoenix.controls.*;
-import com.nelsNio.logic.*;
+import com.nelsnio.logic.*;
 import javafx.beans.value.ObservableValue;
 import javafx.collections.FXCollections;
 import javafx.collections.ObservableList;
@@ -77,7 +77,7 @@ public class FXMLController implements Initializable {
      * Verifíca si el número de iteraciones es una cantidad válida
      */
     @FXML
-    void checkInfiniteGenerationInput() {
+    void checkInfiteGenerationInput() {
         if (!Utils.isValidIterationsNumber(infiniteGenerationInput.getText())) {
             gui.setTextFieldAsError(infiniteGenerationInput);
         } else {
@@ -255,7 +255,7 @@ public class FXMLController implements Initializable {
         Alert alert = new Alert(Alert.AlertType.INFORMATION);
         alert.setTitle("Acerca de");
         alert.setHeaderText("Simulación");
-        alert.setContentText("Nelson Niño \n el chino Cabra");
+        alert.setContentText("Nelson Niño \n Duvan Cabra");
         alert.showAndWait();
     }
 

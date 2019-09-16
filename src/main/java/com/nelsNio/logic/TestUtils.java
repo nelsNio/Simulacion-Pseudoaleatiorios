@@ -1,9 +1,9 @@
-package com.nelsNio.logic;
+package com.nelsnio.logic;
 
 import java.util.List;
 
 /**
- * @author nelsNio
+ * @author nelsnio
  */
 public class TestUtils {
 

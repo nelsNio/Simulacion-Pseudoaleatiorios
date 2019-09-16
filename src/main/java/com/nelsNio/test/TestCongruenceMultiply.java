@@ -1,7 +1,7 @@
-package com.nelsNio.test;
+package com.nelsnio.test;
 
-import com.nelsNio.logic.CongruenceMultiply;
-import com.nelsNio.logic.OperationCongruenceMultiply;
+import com.nelsnio.logic.CongruenceMultiply;
+import com.nelsnio.logic.OperationCongruenceMultiply;
 import javafx.collections.FXCollections;
 
 class TestCongruenceMultiply {

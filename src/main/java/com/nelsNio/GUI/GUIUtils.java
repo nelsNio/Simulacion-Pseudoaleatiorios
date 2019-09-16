@@ -1,4 +1,4 @@
-package com.nelsNio.GUI;
+package com.nelsnio.GUI;
 
 import com.jfoenix.controls.JFXTextField;
 import javafx.scene.control.TextField;

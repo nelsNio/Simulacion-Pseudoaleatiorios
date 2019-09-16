@@ -1,4 +1,4 @@
-package com.nelsNio.logic;
+package com.nelsnio.logic;
 
 import javafx.collections.ObservableList;
 
